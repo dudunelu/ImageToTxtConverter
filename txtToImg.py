@@ -1,3 +1,5 @@
+#need to install tesseract in cmd and PiPDF2
+
 import os
 import string
 import PyPDF2
